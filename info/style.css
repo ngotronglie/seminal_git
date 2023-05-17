@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.imgs {
+  position: relative;
+  top: 20px;
+  left: 5px;
+}
+.img {
+  position: absolute;
+
+  display: none;
+}
+img {
+  width: 100%;
+  height: 100%;
+}
+.info {
+  position: relative;
+  top: 500px;
+}
+button {
+  display: none;
+}
+.info {
+  position: relative;
+  top: 50px;
+  left: 10px;
+}
+h2 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin: 20px 0;
+}
+a {
+  text-align: center;
+}
